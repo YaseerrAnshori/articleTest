@@ -1,0 +1,13 @@
+/* Import jenis font Roboto dari Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+/* Gunakan font Roboto pada elemen body dan atur ketebalan teks */
+body {
+    font-family: 'Roboto', sans-serif; /* Gunakan jenis font Roboto */
+    font-weight: 400; /* Reguler (normal) */
+}
+
+/* Atur ketebalan teks untuk teks yang harus tebal (misalnya judul) */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 200; /* Bold (tebal) */
+}
